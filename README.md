@@ -1,24 +1,12 @@
-# Hey there, I'm Shakthi! 👋  
+# Hey, I'm Shakthi! 👋  
 
-## 🚀 About Me  
-🎓 Sophomore pursuing an M.Tech in Computer Science and Engineering.  
-💻 Passionate about web development and cyber security. 
-🚀 Exploring AI, cybersecurity, and entrepreneurship.  
-🎯 Learning, coding, and creating!  
+🚀 Passionate about web development, UI/UX, and cybersecurity.  
+🎓 M.Tech CSE sophomore | Always learning & building cool stuff!  
 
-## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React.js (Learning)
-- **Backend:** Python, Flask and API's
-- **Other Skills:** UI/UX Design, Responsive Web Design  
-- **Tools:** Git, Canva, Figma
+### 🔧 Tech Stack  
+HTML | CSS | JavaScript | React.js | C | Python | Java
 
-## 📌 Current Learning  
-- React.js for building modern web applications.  
-- Cybersecurity for future-ready solutions.  
-- Enhancing problem-solving & DSA skills.  
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/shakthi-akshata-g) | [Portfolio (Coming Soon!)]  
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shakthi-akshata-g)  
-- 📧 Email: shakthiakshata@gmail.com
-
-💡 *"Turning ideas into reality, one line of code at a time!"* 🚀  
+*"Levelling up, one line of code at a time!"* 🚀  
