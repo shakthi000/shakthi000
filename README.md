@@ -1,10 +1,10 @@
 # Hey, I'm Shakthi! 👋  
 
-🚀 Passionate about web development, UI/UX, and cybersecurity.  
-🎓 M.Tech CSE sophomore | Always learning & building cool stuff!  
+🚀 Passionate about full stack web development, UI/UX, and cybersecurity.  
+🎓 M.Tech CSE Pre-Final Year | Always learning & building cool stuff!  
 
 ### 🔧 Tech Stack  
-HTML | CSS | JavaScript | React.js | C | Python | Java
+Python Full Stack | HTML | CSS | JavaScript | React.js | Flask | C | C++ | Python | Java
 
 ### 📫 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/shakthi-akshata-g) | [Portfolio (Coming Soon!)]  
